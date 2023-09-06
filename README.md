@@ -1,5 +1,6 @@
 # 9oormthonchallenge
 ![스크린샷 2023-09-06 오후 4 28 02](https://github.com/jungbin97/9oormthoonchallenge/assets/57621519/e1589f6d-0719-4abc-beab-97d83f85d197)
+
 참가 기간 : 8월 14일(월) ~ 9월 10일(일)
 
 매일 오전 10시 문제가 공개되어 48시간 내에 푸는 챌린지이다.
